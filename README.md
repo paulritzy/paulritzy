@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<h1 align="center">Hi 👋, I'm Paul. A software Engineer and Product Manager</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
