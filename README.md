@@ -4,6 +4,9 @@
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
             alt="php" width="40" height="40" /> </a>
+             <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="AWS" width="40" height="40" /> </a>
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
             alt="linux" width="40" height="40" /> </a>
