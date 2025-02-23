@@ -1,12 +1,36 @@
 <h1 align="center">Hi 👋, I'm Paul. A Technical Program Leader.</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+            <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+    </a>
+        <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40" />
+    </a>
+    <a href="https://www.mulesoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="MuleSoft" width="40" height="40" />
+    </a>
+            <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/mysql-logo.svg" alt="SQL" width="40" height="40" />
+    </a>
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
             alt="php" width="40" height="40" /> </a>
              <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="AWS" width="40" height="40" /> </a>
+            <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+    </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" />
+    </a>
+    <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="ServiceNow" width="40" height="40" />
+    </a>
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
             alt="linux" width="40" height="40" /> </a>
