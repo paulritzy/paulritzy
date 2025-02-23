@@ -13,9 +13,6 @@
             <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/mysql-logo.svg" alt="SQL" width="40" height="40" />
-    </a>
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
             alt="php" width="40" height="40" /> </a>
