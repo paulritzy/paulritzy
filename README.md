@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul. A Software Engineer and Product Manager.</h1>
+<h1 align="center">Hi 👋, I'm Paul. A Technical Program Leader.</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
